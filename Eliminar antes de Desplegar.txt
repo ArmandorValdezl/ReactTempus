@@ -1,6 +1,0 @@
-Hook Personalizado - useWeather.js
-Componente Forecast.jsx
-Componente WeatherCard.jsx
-Componente Principal - App.jsx
-Contexto de Temperatura - TemperatureContext.jsx
-utils/videos.js
